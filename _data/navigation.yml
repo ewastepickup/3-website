@@ -16,5 +16,5 @@
   highlight: false
 - name: Sign Up
   link: /services/
-  new_window: true
+  new_window: false
   highlight: true
